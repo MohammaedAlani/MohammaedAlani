@@ -62,7 +62,7 @@ With over 8 years in software development, I'm a passionate Senior Full Stack De
 - **CleanCode Inc.**: Focused on backend development, collaborating directly with clients to deliver tailored software solutions.
 
 ### 📚 Education
-- **B.S. in Mathematics and Computer Applications** - Al-Nahrain University, Baghdad
+- **B.S. in Mathematics and Computer Applications**
 
 ---
 
